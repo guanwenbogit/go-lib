@@ -1,6 +1,6 @@
 package log
 import (
-	"go-lib/com"
+	"github.com/guanwenbogit/go-lib/com"
 	"fmt"
 )
 
